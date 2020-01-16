@@ -14,13 +14,13 @@ body{
     /* border:2px solid #fff; */
     transition: color 0.5s;
     position: relative;
-    transition: 0.5s;
     overflow: hidden;
 }
 
 .secondOne span{
     position: absolute;
-    transition: 0.5s;
+    transition: 0.2s;
+    border-radius: 10px;
 }
 .secondOne span:nth-child(1){
     width: 100%;
